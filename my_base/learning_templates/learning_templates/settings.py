@@ -26,7 +26,7 @@ SECRET_KEY = 'im9$726vqm76jcvm!fs)300^i(3*(fep9jfvh18oljrax2$o!%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://sarunas.pythonanywhere.com']
+ALLOWED_HOSTS = ['sarunas.pythonanywhere.com']
 
 
 # Application definition
